@@ -1,0 +1,42 @@
+body {background-color: black;
+      color:white;
+}
+
+.header {background-color: rgb(59, 12, 12);
+   height: 89px; 
+   padding-top: 10px;}
+
+   .header img {margin-left: 50px;}
+
+ 
+
+.auto {margin:10px;
+    margin-right: 50px;
+    margin-top: -7px;
+}
+
+h3 {margin-top: 140px;
+    font-weight: bolder;
+    font-size: 36px;}
+
+    .forefooter {background-color: white;
+     height:10px;
+     margin-top:295px;}
+
+     .footer {background-color:rgb(59, 12, 12);
+         height: 100px;
+         color: white;}
+
+         .mdi {color: white; font-size: 3rem;}
+
+         .icons {float: right;
+            padding-right: 20px;
+            margin-top: 20px;}
+
+            .icon {margin: 20px;}
+
+
+            .navbar {background-color: red;
+               height: 100px;
+               background-color:rgb(59, 12, 12);}
+               .nav {margin-top: 30px;}

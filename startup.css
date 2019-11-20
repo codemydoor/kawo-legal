@@ -1,0 +1,54 @@
+.header {background-color: rgb(59, 12, 12);
+         height: 89px; 
+         padding-top: 10px;
+          }
+
+.link {float: right;
+	   margin-top: 
+     margin-right: 150px;} 
+
+.auto {margin:10px;}
+
+h3 {margin-top: 90px;
+    font-weight: bolder;
+    font-size: 36px;}
+
+
+.header img {margin-left: 50px;}
+
+.header p {margin-top: 5px;}
+
+body {background-color: black;
+      color:white;}
+
+.search {margin-bottom: 100px;}
+
+.images {width: 25%;
+         height:25%;
+        border: solid 1px #eee;
+        margin-top: 70px;
+        margin-left: 120px;}
+
+.text {margin-top: 60px;
+        margin-left: -90px;}
+
+.navbar {background-color: red;
+         height: 100px;
+         background-color:rgb(59, 12, 12);
+         border:none;}
+.nav {margin-top: 30px;}
+
+
+
+.footer {background-color:rgb(59, 12, 12);
+     height: 80px;
+     color: white;
+    margin-top:18px;}
+
+.mdi {color: white; font-size: 3rem;}
+
+.icons {float: right;
+        padding-right: 20px;
+      margin-top: 20px;}
+
+.icon {margin: 20px;}
